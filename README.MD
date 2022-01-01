@@ -1,4 +1,6 @@
-1. Find the median of two sorted arrays
+1. Find the median of two sorted arrays.
 2. Given a list of items with values and weights, as well as a max weight, find the
-maximum value you can generate from items where the sum of the weights is less than
-the max.
+   maximum value you can generate from items where the sum of the weights is less than
+   the max.
+3. Given an array of integers where each value 1 <= x <= len(array), write a
+   function that finds all the duplicates in the array.
