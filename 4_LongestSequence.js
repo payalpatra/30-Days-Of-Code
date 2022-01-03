@@ -5,6 +5,14 @@ consecutive([4, 2, 1, 6, 5]) = 3, [4, 5, 6]
 consecutive([5, 5, 3, 1]) = 1, [1], [3], or [5]
 */
 
+// ** APPROACH **
+/*
+1. Sort the array
+2. Loop through the array and if the next consecutive element is found 
+3. Inmcreament the current length
+4. Return the maximum length after visiting all the elements of the array
+*/
+
 // ------------------ METHOD 1 ------------------ \\
 
 function longestSequenceOfNumbers1(arr) {
@@ -79,4 +87,4 @@ function longestSequenceOfNumbers(arr) {
 console.log(longestSequenceOfNumbers([4, 2, 1, 6, 5]))
 
 // Time Complexity: 0(N)
-// Space Complexity: 0(1)
+// Space Complexity: 0(N)
