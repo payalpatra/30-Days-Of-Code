@@ -5,3 +5,4 @@
 5. Given a boolean matrix, update it so that if any cell is true, all the cells in that row and column are true.
 6. Given a directed graph, find the shortest path between two nodes if one exists.
 7. Given a list of array of N integers, Print the sums of all subset in it.
+8. Write a function that returns all permutations of a given list.
