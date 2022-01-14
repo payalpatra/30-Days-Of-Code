@@ -7,3 +7,4 @@
 7. Given a list of array of N integers, Print the sums of all subset in it.
 8. Write a function that returns all permutations of a given list.
 9. Given a string s, find the length of the longest substring without repeating characters.
+10. Given a binary tree, where every node value is a Digit from 1-9 .Find the sum of all the numbers which are formed from root to leaf paths.
