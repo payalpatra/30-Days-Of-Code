@@ -40,7 +40,8 @@ SPACE COMPLEXITY - O(1)
 /*
 Take a start pointer and run a loop .
 Keep track of the current sum
-if the current sum is greater than the target sum substract the start element from the current sum and current sum.
+If the current sum is greater than the target sum substract the start element from the current sum and current sum.
+If Trageted sum is found return the positions [start + 1, end ]
 */
 
 function subArraySum(arr, n, sum) {
