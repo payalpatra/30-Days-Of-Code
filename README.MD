@@ -10,3 +10,5 @@
 10. Given a binary tree, where every node value is a Digit from 1-9 .Find the sum of all the numbers which are formed from root to leaf paths.
 11. Given an n x m array where all rows and columns are in sorted order, write a function to determine whether the array contains an element x.
 12. Given an unsorted array( A )of size N that contains only non-negative integers, find a continuous sub-array which adds to a given number S.
+13. Implement a binary tree with a method getRandomNode() that returns a
+random node.
