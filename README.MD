@@ -12,3 +12,4 @@
 12. Given an unsorted array( A )of size N that contains only non-negative integers, find a continuous sub-array which adds to a given number S.
 13. Implement a binary tree with a method getRandomNode() that returns a random node.
 14. Given a linked list, write a function that prints the nodes of the list in reverse order.
+15. Given a binary tree, write a function to determine whether the tree is balanced.
