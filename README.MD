@@ -14,3 +14,4 @@
 14. Given a linked list, write a function that prints the nodes of the list in reverse order.
 15. Given a binary tree, write a function to determine whether the tree is balanced.
 16. Given a stack, sort the elements in the stack using one additional stack.
+17. Given a linked list, determine whether it contains a cycle.
