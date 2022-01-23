@@ -15,3 +15,4 @@
 15. Given a binary tree, write a function to determine whether the tree is balanced.
 16. Given a stack, sort the elements in the stack using one additional stack.
 17. Given a linked list, determine whether it contains a cycle.
+18. Given an unsorted linked list, write a function to remove all the duplicates.
