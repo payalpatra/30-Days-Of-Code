@@ -18,3 +18,4 @@
 18. Given an unsorted linked list, write a function to remove all the duplicates.
 19. Given a string, write a function to compress it by shortening every sequence of the same character to that character followed by the number of repetitions. If the compressed string is longer than the original, you should return the original string.
 20. Given two integers, write a function to determine whether or not their binary representations differ by a single bit.
+21. Given two strings, write a function that returns the longest common substring length.
