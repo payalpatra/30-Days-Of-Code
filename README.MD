@@ -24,3 +24,4 @@
 24. Robot bounded in circle. 
 25. You are given an array of integers arr, there is a sliding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding window moves right by one position. Return the max sliding window.
 26. Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
+27. Given a sorted array and a number x, find the pair in array whose sum is closest to x
