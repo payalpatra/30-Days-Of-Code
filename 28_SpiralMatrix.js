@@ -9,8 +9,9 @@ Output: [1,2,3,4,8,12,11,10,9,5,6,7]
 */
 
 
-var spiralOrder = function(matrix) {
-    // --- Possible Directions to figure out --- \\
+var spiralOrder = function(matrix) { 
+    
+// --- Possible Directions to figure out --- \\
 
 /*
 
