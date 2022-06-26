@@ -21,7 +21,10 @@
 21. Given two strings, write a function that returns the longest common substring length.
 22. Implement priotity queue.
 23. Given an integer array nums that may contain duplicates, return all possible subsets.
-24. Robot bounded in circle. 
+24. Robot bounded in circle.
 25. You are given an array of integers arr, there is a sliding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding window moves right by one position. Return the max sliding window.
 26. Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
 27. Given a sorted array and a number x, find the pair in array whose sum is closest to x
+28. Given an m x n matrix, return all elements of the matrix in spiral order.
+29. Given a 2D integer array matrix, return the transpose of matrix.
+30. Given an unsorted integer array nums, return the smallest missing positive integer.
